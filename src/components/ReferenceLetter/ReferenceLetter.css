@@ -1,0 +1,58 @@
+.reference-letter {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1rem;
+  background: #fff;
+}
+
+.reference-letter-wrapper {
+  max-width: 700px;
+  margin: 1rem auto;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+.reference-letter h3 {
+  margin: 0;
+  font-size: 1rem;
+  color: #0077cc;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  text-align: left;
+}
+
+.author {
+  font-size: 1rem;
+  color: #666;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.role {
+  font-size: 1rem;
+  color: #666;
+  font-weight: normal;
+}
+
+.letter-text {
+  margin: 1rem 0;
+  line-height: 1.2rem;
+  font-size: 0.9rem;
+}
+
+/* TODO: combine hitHighlight css w/ ReferencePreviewCard */
+.highlight-blue {
+  color: #0077cc;
+}
+
+.highlight-bold {
+  font-weight: bold;
+}
+
+.toggle-btn {
+  background: none;
+  border: none;
+  color: #0077cc;
+  cursor: pointer;
+  font-size: 0.8rem;
+  margin-top: 2rem;
+}

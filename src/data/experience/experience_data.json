@@ -1,0 +1,118 @@
+{
+  "overviewCards": [
+    {
+      "icon": "microsoft",
+      "headerLeftText": "Microsoft",
+      "headerRightText": "Software Engineer 2",
+      "subCards": [
+        {
+          "header": "Metrics and Experimentation, BizChat/Copilot Evaluation, MSAI",
+          "subHeader": "Redmond, WA",
+          "subHeaderIcon": "location",
+          "bulletPoints": [
+            "Delivered customer metrics for Copilot and Search Relevance features; Worked with customers to understand feature and metric requirements, debug scorecards, and validate results",
+            "Identified/prototyped/investigated independent projects for scorecard COGS optimization, scorecard monitoring and IcM alerting, LLM and Search metric versioning, AML optimization, and scientist/dev agility",
+            "Owned fully self-directed onboarding to Offline and Shadow experimentation and ML pipelines, Azure Machine Learning, Python and pandas, compliant data, Copilot LLM metrics and Search metrics"
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "microsoft",
+      "headerLeftText": "Microsoft",
+      "headerRightText": "Software Engineer 2, 1",
+      "subCards": [
+        {
+          "header": "Outlook Mobile Android Search Experiences, MSAI",
+          "subHeader": "Redmond, WA",
+          "subHeaderIcon": "location",
+          "bulletPoints": [
+            "Shipped Production features across the Search experience including file answers, files tab, contacts tab refactor, previous interactions, calendar artifacts, answer tidbits, tabbed search experiences",
+            "Built prototype GenAI in OM Search experience w/ teammate as early implementation/exploration",
+            "Led and coordinated cross-team, cross-platform, and cross-org collaboration across 3S (Substrate Search Service), File Search Relevance, HxCore, HxService, Intune MAM, OM Search iOS, OWA, OM Android Core, and OM Eng, to support and surface new file functionality, file search behavior, data sources, and APIs",
+            "Initiated and led discussions across Eng, PM, and Design to drive clarity on feature requirements, technical dependencies and tradeoffs, scope, cost, and blockers/risk",
+            "Led cross-platform engineering design decisions to enable accessibility and internationalization for features",
+            "Led Search Instrumentation investigation and validation for OM Search during early Search API impl",
+            "Established workflow process to enable smoother collaboration and communication across Eng, PM, Design",
+            "Mentored 6 interns and junior engineers; Designed/scoped technical projects from scratch and established project plans w/ milestones and deliverables; Provided daily technical mentorship and regular career coaching"
+          ]
+        }
+      ]
+    }
+  ],
+  "internshipCards": [
+    {
+      "icon": "microsoft",
+      "headerLeftText": "Microsoft",
+      "headerRightText": "Intern",
+      "subCards": [
+        {
+          "header": "Cortana CoreScience"
+        }
+      ]
+    },
+    {
+      "icon": "pennstatearl",
+      "headerLeftText": "Penn State Applied Research Lab",
+      "headerRightText": "Intern",
+      "subCards": [
+        {
+          "header": "Distinguished Undergraduate Research Program"
+        }
+      ]
+    },
+    {
+      "icon": "generalelectric",
+      "headerLeftText": "General Electric",
+      "headerRightText": "Intern",
+      "subCards": [
+        {
+          "header": "Digital Technology Leadership Program"
+        }
+      ]
+    }
+  ],
+  "highlightsCards": [
+    {
+      "icon": "pennstateawc",
+      "headerLeftText": "President, Association of Women in Computing at Penn State",
+      "headerRightText": "",
+      "subCards": [
+        {
+          "header": "Joelle Award for Women in Leadership, 1st Runner Up",
+          "bulletPoints": [
+            "Secured $18,700 in independent corporate funding and in university funding (competitively allocated)",
+            "In 1 year, scaled org membership by 5x, from 5-10 members meeting 1x monthly, to 40-60 regular attendees, 3x+ weekly events w/ org goal to reduce attrition of women in tech. Scaled leadership v-team from 4 to 12",
+            "Created leadership program (still in effect today) to support growth from first year membership up to senior leadership; Coached and supported v-team to build leadership skills and run sub-committees of 3-5 members",
+            "Designed and implemented student programs (still in effect today) for multiple weekly meetings/events for corporate networking, tech talks, mentorship, tutoring, community outreach, socials, conference attendance",
+            "Facilitated 7 members to secure internships and 12 members to attend Grace Hopper technology conference",
+            "Developed formal processes (still in effect) for corporate sponsorship, elections, conference nominations"
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "pennstatecoe",
+      "headerLeftText": " ",
+      "headerRightText": "",
+      "subCards": [
+        { "header": "Student Advisory Board, School of EECS" },
+        { "header": "Grace Hopper Representative, School of EECS" },
+        { "header": "Engineering Ambassador, College of Engineering" },
+        { "header": "Engineering Envoy/Student Career Advisor, College of Engineering" },
+        { "header": "HackPSU/CodePSU Director" }
+      ]
+    }
+  ],
+  "educationCards": [
+    {
+      "icon": "pennstate",
+      "headerLeftText": "Pennsylvania State University",
+      "subCards": [
+        {
+          "header": "B.S. Computer Science"
+        }
+      ]
+    }
+  ]
+}

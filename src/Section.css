@@ -1,0 +1,77 @@
+
+
+.section-card-title {
+ background-color: #F5F5F5;
+ color: #5a5b5c;
+ padding: 0.5rem;
+ /*margin: 1rem 0;*/
+ border-radius: 0px;
+ /*box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);*/
+ font-size: 1.8rem;
+}
+
+.section-card-title h1 {
+ background-color: #F5F5F5;
+ color: #5a5b5c;
+ padding: 0.5rem;
+ /*margin: 1rem 0;*/
+ border-radius: 0px;
+ /*box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);*/
+ font-size: 3.0rem;
+ font-weight: lighter;
+ padding-bottom: 0;
+}
+
+
+.section-card {
+ background-color: #F5F5F5;
+ color: #5a5b5c;
+ padding: 2rem;
+ margin: 1rem 0;
+ border-radius: 0px;
+ /*box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);*/
+}
+
+
+.section-card h2 {
+ background-color: #F5F5F5;
+ color: #5a5b5c;
+ font-size: 1.8rem;
+ margin-bottom: 1rem;
+}
+
+
+.section-card h3 {
+ background-color: #F5F5F5;
+ color: #5a5b5c;
+ font-size: 1rem;
+ margin-bottom: 1rem;
+}
+
+.section-card p {
+ background-color: #F5F5F5;
+ color: #5a5b5c;
+ font-size: 1.1rem;
+ line-height: 1.6;
+}
+
+.section-card ul {
+ color: red; /* testing font */
+ list-style-type: none;
+ padding: 0;
+}
+
+.section-card li {
+ color: red; /* testing fonts */
+ font-size: 1.1rem;
+ margin-bottom: 0.5rem;
+}
+
+.section-card-footer {
+ background-color: #F5F5F5;
+ margin-top: 1rem;
+ margin-bottom: 1rem;
+ margin-left: 3rem;
+}
+
+

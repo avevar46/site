@@ -1,0 +1,94 @@
+{
+  "references": [
+    {
+      "order": 1,
+      "viewType": "Perspective",
+      "category": "PM/Design Collaboration",
+      "author": "Heather Francisco",
+      "role": "Principal Product Designer",
+      "preview": "Avery, I have seen you be a great leader in the development team, working hard to ensure that everyone is organized and on the same",
+      "paragraphs": [
+        "Avery, I have seen you be a great leader in the development team, working hard to ensure that everyone is organized and on the same page. You have made sure that design has had a chance to collaborate and have input into the development process, and have been open in communication across teams on your process goals. ",
+        "You have been instrumental in helping get design up and running in ADO with dev and working together to achieve the best results. Thank you! Your dedication to the team and your willingness to listen to everyone's ideas has been invaluable.",
+        "I look forward to working with you on any project. You have a fantastic attitude and are a joy to work with. Keep it up!",
+        "You bring knowledge and talent to your projects. Microsoft is lucky to have you!"
+      ]
+    },
+    {
+      "order": 4,
+      "viewType": "Perspective",
+      "category": "PM/Design Collaboration",
+      "author": "Ishani Sahu",
+      "role": "Product Manager 2",
+      "preview": "Avery, you have been great to work with the past few months. Files Tab in Android ",
+      "paragraphs": [
+        "Avery, you have been great to work with the past few months. Files Tab in Android ended up being a success and I appreciate all of the work you put into getting the Files Tab working, including all the bumps of onboarding a new provider. You put in a lot of time with the service team debugging and getting the Files Tab working, as well as addressing all of the new asks that came in while we were debugging and piecing together the entire feature. ",
+        "Overall, you did a great job on getting the Files Tab shipped and I truly appreciate all of the work you did to make it happen. Thank you for being a great collaborator !!"
+      ]
+    },
+    {
+      "order": 3,
+      "viewType": "Perspective",
+      "category": "PM/Design Collaboration",
+      "author": "August Niehaus",
+      "role": "Senior Product Designer",
+      "preview": "You explain yourself SO well. Your presentation of your proposal for the ENG/PM (and eventually Design!) shared ADO process",
+      "paragraphs": [
+        "You explain yourself SO well. Your presentation of your proposal for the ENG/PM (and eventually Design!) shared ADO process was articulate and clear, not only in your delivery but in the way you structured the content.",
+        "That proposal is also a spectacular example of a cross-disciplinary project and collaboration at a high level. You're demonstrating strong leadership skills here!"
+      ]
+    },
+    {
+      "order": 0,
+      "viewType": "Letter of Reference",
+      "category": "Engineering",
+      "preview": "I’ve had the pleasure of working alongside Avery for approximately two and a half years on the same team, during which she consistently demonstrated technical excellence, leadership skills, high autonomy and excellent problem-solving skills.",
+      "author": "Juan Canales",
+      "role": "Senior Software Engineer",
+      "paragraphs": [
+        "To Whom It May Concern,",
+        "It’s with great enthusiasm that I recommend Avery Varhade. I’ve had the pleasure of working alongside Avery for approximately two and a half years on the same team, during which she consistently demonstrated technical excellence, leadership skills, high autonomy and excellent problem-solving skills.",
+        "Avery is a highly skilled engineer with deep expertise in Java, Kotlin, and the Android ecosystem. Her standout strength, however, lies in her systems engineering capability. She brings senior-level insights to projects, guiding architectural design, navigating ambiguity, and delivering sustainable solutions that balance short-term goals with long-term maintainability. She can take the lead developer role and properly discuss with external stakeholders and product, negotiate solutions and protect the quality of software while completing the roadmap. Whether she’s designing scalable components or making tough trade-off calls, Avery thinks like an architect, always with a deep understanding of the bigger picture.",
+        "During her tenure as feature lead on the Search experience for Outlook on Android, I was able to witness her impressive autonomy and leadership skills. She successfully drove the development cycle of complex features from end to end, coordinating with multiple partner teams, resolving nuanced technical and product uncertainties, and delivering functionality that aligned with high standards of performance and usability.",
+        "I was also able to work with her in a very high ambiguity project where bringing clarity was a critical mission. She was able to model a strategy to attack the problem, found the right questions to ask, identified the work streams needed to enable parallel work, and so on, showing also a very powerful set of skills in strategic thinking and project leadership.",
+        "Avery has a lot of passion for her work, and it shows in her dedication, attention to detail, holistic approach to strategy and problem solving and customer focus. I recommend her wholeheartedly and without reservation",
+        "Best Regards,"
+      ]
+    },
+    {
+      "order": 2,
+      "viewType": "Letter of Reference",
+      "category": "Engineering, Mentorship",
+      "preview": "I am delighted to recommend Avery Varhade. As her colleague on the M365 Office Search for Outlook Mobile",
+      "author": "Raveena Nair",
+      "role": "Software Engineer 2",
+      "paragraphs": [
+        "To Whom It May Concern:",
+        "I am delighted to recommend Avery Varhade. As her colleague on the M365 Office Search for Outlook Mobile (Android) team at Microsoft, I have had the privilege of working alongside Avery for the past two years. In that time, she has distinguished herself through exceptional technical expertise, unwavering dedication, and natural leadership.",
+        "From my first day as a summer intern, Avery took me under her wing. With no prior exposure to our codebase or Android-specific engineering practices, I relied on her clear guidance and thoughtful teaching. She introduced me to our system architecture, guided me in writing comprehensive design docs, and coached me on how to present proposals confidently to the team. Every day, she would check in with me to ensure I was on path for my project as well as share her past experiences as an engineer. She also taught me how to estimate deadlines and always make room for buffer time. When I returned as a full-time engineer, Avery remained my mentor—this time helping me tackle more complex challenges. Aside from her technical abilities in Android architecture, she consistently showcased her uncanny ability to anticipate edge cases, decompose problems into manageable tasks, and communicate solutions in a way that brings the whole team along. During our time together, I have seen her contributions significantly improve the code quality for our project, as well as growing Search in Outlook on a positive scale by shipping features that are heavily used by millions of users.",
+        "Beyond her technical prowess, Avery’s interpersonal skills set her apart. She approaches every conversation with empathy, whether she’s helping a colleague troubleshoot a tricky bug or offering career advice to someone navigating their first full-time role. Her inclusive style fosters trust and collaboration across engineers, PMs, and designers. Thanks to her efforts, our team culture became warmer, more welcoming, and more effective.",
+        "In summary, I wholeheartedly recommend Avery for any opportunity she chooses to pursue. I am confident that her skills, character, and dedication will make a valuable contribution wherever she goes. Please feel free to contact me if you need any additional information.",
+        "Best Regards,"
+      ]
+    },
+    {
+      "order": 5,
+      "viewType": "Letter of Reference",
+      "category": "Leadership",
+      "preview": "Beyond Avery’s record, I personally saw the professionalism, personal care, and drive with which Avery accomplished her goals.",
+      "author": "Sarah McClure",
+      "role": "PhD Student, UC Berkeley",
+      "paragraphs": [
+        "To Whom It May Concern:",
+        "I am writing as a reference for Avery Varhade, who I can attest is a capable and dynamic professional.",
+        "I am currently a 5th year PhD student in computer science at UC Berkeley. Avery and I crossed paths in our undergraduate degrees as we both were in leadership positions in the Association of Women in Computing (AWC) at Penn State. Avery was President as I joined the club. The following year, I became Vice President and worked closely with Avery during the summer for a smooth transition.",
+        "AWC serves as a community for underrepresented students in the Electrical Engineering and Computer Science Department at Penn State. As a part of its mission, it hosts corporate recruiting events, technical talks, social events, and more. AWC also sponsors ~10-15 students to attend the Grace Hopper Conference each year for additional personal and career development. The role of the president and vice president is to acquire sponsorship funds from industry and academia, head the leadership board, represent the organization to the department and university, and develop club programming along with the relevant board members.",
+        "It was apparent both as a general member of the club and as incoming leadership that Avery had created many structures and processes for the organization that became essential for its sustained success (as the club still appears to have strong membership and impact today).",
+        "Avery had worked with academic advisors to ensure that AWC was maximally effective for its members. She increased corporate sponsorship, improved club programming, and created sustainable leadership roles.",
+        "Beyond Avery’s record, I personally saw the professionalism, personal care, and drive with which Avery accomplished her goals. In addition, her help in my transition to leadership was invaluable mentorship for me. I was quite inspired by her effectiveness in her role and her willingness to work as hard as necessary in a volunteer role mostly for the benefit of others.",
+        "From what I observed of Avery’s skills in AWC, I believe she would be a strong member of any team. I am happy to answer any additional questions.",
+        "Sincerely,"
+      ]
+    }
+  ]
+}

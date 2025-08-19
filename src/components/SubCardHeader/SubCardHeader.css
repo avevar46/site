@@ -1,0 +1,41 @@
+.subcard-header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 1rem;
+ margin-bottom: 1rem;
+ flex-wrap: wrap; /* small screen wrapping */
+}
+
+.left-text {
+ font-weight: bold;
+ font-size: 1.5rem;
+ text-align: left;
+ flex: 1 1 auto;
+ min-width: 0; /* shrinking */
+ color: inherit;
+}
+
+.right-text {
+ font-weight: normal;
+ font-size: 12pt;
+ text-align: right;
+ flex: 0 0 auto;
+ min-width: 100px;
+ white-space: nowrap;
+ color: inherit;
+}
+
+/* stack on small screens */
+@media (max-width: 600px) {
+ .subcard-header-container {
+   flex-direction: column;
+   align-items: flex-start;
+ }
+ .right-text {
+   text-align: left;
+   margin-top: 0.25rem;
+   min-width: auto;
+   white-space: normal;
+ }
+}

@@ -1,0 +1,44 @@
+.subcard {
+ /* Optional: background to separate visually */
+ /* background-color: #f9f9f9; */
+ padding: 0.5rem 1rem;
+ margin-bottom: 1rem;
+ margin-left: 1rem;
+ width: 100%; /* right column width */
+ box-sizing: border-box;
+}
+
+.subcard-header {
+ font-weight: bold;
+ font-size: 1rem;
+ align-items: left;
+ margin: 0 0 0.3rem 0;
+ margin-bottom: 0.75rem;
+ color: inherit;
+}
+
+.subcard-subheader {
+ display: flex;
+ align-items: center;
+ font-size: 1rem;
+ margin-bottom: 0.5rem;
+ color: inherit;
+}
+
+.subcard-icon {
+ font-size: 1rem;
+ margin-right: 0.4rem;
+ display: inline-flex;
+ align-items: center;
+ object-fit: contain;
+ vertical-align: middle;
+ width: 1rem;
+ height: 1rem;
+}
+
+.subcard-bullets {
+ margin: 0;
+ padding-left: 1rem;
+ list-style-type: disc;
+ color: inherit;
+}
