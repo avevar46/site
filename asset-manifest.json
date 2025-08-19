@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/site/static/css/main.0be3c11c.css",
+    "main.js": "/site/static/js/main.a07a5015.js",
+    "static/js/453.1a16ed4e.chunk.js": "/site/static/js/453.1a16ed4e.chunk.js",
+    "static/media/pennstateawc2.png": "/site/static/media/pennstateawc2.edb00599496a695eee45.png",
+    "static/media/image.png": "/site/static/media/image.5a9f41a5804422ea0a67.png",
+    "static/media/BioPhoto.png": "/site/static/media/BioPhoto.284a7a6a05c02f2d3c16.png",
+    "static/media/emailat.png": "/site/static/media/emailat.20db9aa0df6b003c957c.png",
+    "static/media/pennstate.png": "/site/static/media/pennstate.5355710215a186201064.png",
+    "static/media/email_circle.png": "/site/static/media/email_circle.cf3e5a3e826d2349ca0b.png",
+    "static/media/email.png": "/site/static/media/email.3ce12cc6361241ca230d.png",
+    "static/media/ge.png": "/site/static/media/ge.97a62d5515a62e42db7c.png",
+    "static/media/pennstatearl.png": "/site/static/media/pennstatearl.0c2b5f26301bcfe32731.png",
+    "static/media/pennstatecoe.png": "/site/static/media/pennstatecoe.760d1686c7e0416e0d94.png",
+    "static/media/location.png": "/site/static/media/location.cdc6552fc9574813aa7f.png",
+    "static/media/hello.png": "/site/static/media/hello.475f9baf3056297a2400.png",
+    "index.html": "/site/index.html",
+    "main.0be3c11c.css.map": "/site/static/css/main.0be3c11c.css.map",
+    "main.a07a5015.js.map": "/site/static/js/main.a07a5015.js.map",
+    "453.1a16ed4e.chunk.js.map": "/site/static/js/453.1a16ed4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be3c11c.css",
+    "static/js/main.a07a5015.js"
+  ]
+}
